@@ -1,4 +1,4 @@
-# Binance Chain Swift SDK
+# BNB Chain Swift SDK
 
 ![Version: beta](https://img.shields.io/badge/version-1.0.0--beta-orange.svg)
 ![Platforms: ios | macos | watchos | tvos](https://img.shields.io/badge/platform-ios%20%7C%20macos%20%7C%20watchos%20%7C%20tvos-blue.svg)
@@ -24,7 +24,7 @@
 
 ### Swift Package Manager
 
-To add BinanceChain to your project, add a dependency:
+To add BNBChain to your project, add a dependency:
 
 ```swift
 dependencies: [
@@ -34,7 +34,7 @@ dependencies: [
 
 ### Cocoapods
 
-To integrate BinanceChain into your Xcode project using CocoaPods, specify it in your `Podfile`:
+To integrate BNBChain into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
 pod 'BinanceChain', :git => 'https://github.com/mh7821/SwiftBinanceChain.git'
@@ -42,7 +42,7 @@ pod 'BinanceChain', :git => 'https://github.com/mh7821/SwiftBinanceChain.git'
 
 ## Usage
 
-Asynchronous API calls can be made using [BinanceChain](https://github.com/mh7821/SwiftBinanceChain/blob/master/BinanceChain/Sources/Core/BinanceChain.swift). The response objects are strongly typed, see [Model](https://github.com/mh7821/SwiftBinanceChain/blob/master/BinanceChain/Sources/Core/Model.swift) for available properties.
+Asynchronous API calls can be made using [BNBChain](https://github.com/mh7821/SwiftBinanceChain/blob/master/BinanceChain/Sources/Core/BinanceChain.swift). The response objects are strongly typed, see [Model](https://github.com/mh7821/SwiftBinanceChain/blob/master/BinanceChain/Sources/Core/Model.swift) for available properties.
 
 ```swift
 import BinanceChain
