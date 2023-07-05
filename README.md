@@ -1,3 +1,4 @@
+**This repo is out of maintenance and decommissioned.**
 # BNB Chain Swift SDK
 
 ![Version: beta](https://img.shields.io/badge/version-1.0.0--beta-orange.svg)
